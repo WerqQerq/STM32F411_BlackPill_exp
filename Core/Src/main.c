@@ -434,8 +434,6 @@ void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
             }
         }
 
-
-
         // Restart the reception
         HAL_UARTEx_ReceiveToIdle_DMA(&huart1, uart1_rx_buffer, UART1_RX_BUFFER_SIZE);
     }
