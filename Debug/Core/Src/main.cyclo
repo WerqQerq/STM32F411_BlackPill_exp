@@ -1,0 +1,10 @@
+../Core/Src/main.c:58:9:crc8_d5	4
+../Core/Src/main.c:75:6:unpackCh	3
+../Core/Src/main.c:141:5:main	4
+../Core/Src/main.c:231:6:SystemClock_Config	3
+../Core/Src/main.c:278:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:311:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:342:13:MX_DMA_Init	1
+../Core/Src/main.c:364:13:MX_GPIO_Init	1
+../Core/Src/main.c:394:6:HAL_UARTEx_RxEventCallback	7
+../Core/Src/main.c:452:6:Error_Handler	1
